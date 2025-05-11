@@ -1,2 +1,2 @@
-# Neural-Network-for-Whale-Noise-Classification
+# Neural-Network-for-Bird-Noise-Classification
 CSC 480 Final Project
